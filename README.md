@@ -1,4 +1,4 @@
-# EUR/USD 5-minute liquidity sweep strategy — backtest specification
+# EUR/USD 5-minute liquidity sweep strategy | backtest specification
 ## interpretation by CODE__PEARL 
 ![result.png]{result.png}
 
@@ -39,9 +39,9 @@ For this particular experiment, I would use Dukascopy historical data.
 | Dukascopy        | Better choice for multi-year FX research; provides historical minute, five-minute and tick data. |
 | Broker tick data | Best for validating execution against the actual broker you intend to trade with.                |
 
-Dukascopy provides EUR/USD historical candles and bid/ask prices. Its data can be downloaded and processed locally in Python.&#x20;
+Dukascopy provides EUR/USD historical candles and bid/ask prices. Its data can be downloaded and processed locally in Python.
 
-[image](https://www.google.com/s2/favicons?domain=https://www.dukascopy.com\&sz=32)
+
 
 Historical Price Data+3
 
